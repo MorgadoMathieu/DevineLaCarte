@@ -387,4 +387,4 @@ println(jeu.strategiePartie(tenta,abandon))
 
 * Le depot initial :  https://gitlab.com/sio-labo/devinelacarte.git
 
-* Notre depot : https://gitlab.com/MorgadoMathieu/projet0
+* Notre depot : https://github.com/MorgadoMathieu/DevineLaCarte
